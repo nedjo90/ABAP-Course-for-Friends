@@ -30,5 +30,8 @@ Let's build a pyramid using ABAP Class:
 > Cela affichera une pyramide de `#` sur plusieurs lignes, ce qui est un bon exercice pour manipuler les chaînes et les espacements en ABAP.
 
 ### Astuce
+
+\n est le caractère spécial représentant un retour à la ligne
 N'oubliez pas que l'utilisation des pipes vous aide à éviter des problèmes avec des caractères spéciaux dans vos chaînes. Cela simplifie grandement le travail avec des variables et du texte dynamique.
+
 
