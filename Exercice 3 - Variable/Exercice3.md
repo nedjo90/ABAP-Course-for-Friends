@@ -22,7 +22,7 @@ Ici, nous avons déclaré la variable `lv_hello` et lui avons assigné la valeur
 ### 2. Afficher une variable à l'aide des pipes
 
 Nous avons vu que les pipes (`|`) permettent de manipuler facilement les textes.  
-Ils nous permettent, grâce aux accolades (`{}`), d'accéder à la valeur d'une variable et ainsi de l'inclure dans un texte dynamique.
+Ils nous permettent, grâce aux accolades (`{}`), d'accéder à la valeur d'une seule et unique variable et ainsi de l'inclure dans un texte dynamique.
 
 Exemple :
 
