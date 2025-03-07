@@ -1,7 +1,5 @@
 # Hello World
 
-#### => votre identifiant
-
 1. **Créer une classe dans Eclipse nommée `ZCL_HELLO_WORLD_####`**
    - Remplace `####` par un identifiant unique, comme tes initiales ou un numéro.
 
